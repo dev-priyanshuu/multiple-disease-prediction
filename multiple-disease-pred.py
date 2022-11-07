@@ -7,11 +7,15 @@ import webbrowser
 
 # loading the saved models
 
-diabetes_model = pickle.load(open("", 'rb'))
+pickle1 = open("/diabetes_model.sav","rb")
+pickle2 = open("/heart_disease_model.sav","rb")
+pickle3 = open("/parkinsons_model.sav","rb")
 
-heart_disease_model = pickle.load(open("", 'rb'))
+diabetes_model = pickle.load(pickle1)
 
-parkinsons_model = pickle.load(open("", 'rb'))
+heart_disease_model = pickle.load(pickle2)
+
+parkinsons_model = pickle.load(pickle3)
 
 
 
