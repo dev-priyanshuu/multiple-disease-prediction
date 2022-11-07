@@ -1,3 +1,6 @@
-numpy==1.21.5
 streamlit==1.14.0
 streamlit_option_menu==0.3.2
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn==0.22.1
+pandas>=0.19
