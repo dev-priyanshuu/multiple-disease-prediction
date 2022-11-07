@@ -1,1 +1,1 @@
-streamlit run "D:\git\multiple-disease-prediction\multiple disease pred.py"
+streamlit run "D:\git\multiple-disease-prediction\multiple-disease-pred.py"
