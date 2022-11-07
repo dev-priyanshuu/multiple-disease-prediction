@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="336aa1f3-fe41-4973-8cc3-216b16f8a133" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/multiple disease pred.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlit run command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit run command.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/git/machine-learning-email-spam-detector-with-Python",
+    "last_opened_file_path": "D:/Multiple Disease Prediction System/Multiple Disease Prediction System",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667805242845</updated>
       <workItem from="1667805247081" duration="2341000" />
+      <workItem from="1667809000394" duration="1359000" />
     </task>
     <servers />
   </component>
